@@ -1,0 +1,7 @@
+C:\C#.net\pattern programs\Number pattern program-3\bin\Debug\Number pattern program-3.exe.config
+C:\C#.net\pattern programs\Number pattern program-3\bin\Debug\Number pattern program-3.exe
+C:\C#.net\pattern programs\Number pattern program-3\bin\Debug\Number pattern program-3.pdb
+C:\C#.net\pattern programs\Number pattern program-3\obj\Debug\Number pattern program-3.csproj.AssemblyReference.cache
+C:\C#.net\pattern programs\Number pattern program-3\obj\Debug\Number pattern program-3.csproj.CoreCompileInputs.cache
+C:\C#.net\pattern programs\Number pattern program-3\obj\Debug\Number pattern program-3.exe
+C:\C#.net\pattern programs\Number pattern program-3\obj\Debug\Number pattern program-3.pdb
